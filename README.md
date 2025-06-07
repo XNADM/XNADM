@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohammed 👋</h1>
+<p align="center">IT student who enjoys learning and building with code.</p>
 
-<!--
-**XNADM/XNADM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧾 About Me
+I'm an IT student from Saudi Arabia.  
+I like working with code and exploring how technology works.  
+I enjoy building simple things and learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills
+- HTML & CSS
+- JavaScript
+- Python
+
+---
+
+### 🛠️ Tools
+- VS Code
+- Git & GitHub
+- A bit of Linux
+
+---
+
+### 📬 Contact
+- Email: al.hijab.mohammed966@gmail.com
+- GitHub: [github.com/XNADM](https://github.com/XNADM)
